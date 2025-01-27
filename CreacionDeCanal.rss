@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Amigurumi</title>
+		<link>https://patronamigurumi.top/</link>
+		<descripcion>PATRONES</descripcion>
+		
+		<item>
+			<title>Winnie the Pooh Amigurumi paso a paso</title>
+			<link>https://patronamigurumi.top/winnie-the-pooh-amigurumi-paso-a-paso/</link>
+			<descripcion>El lenguaje Python</descripcion>
+			<author>Maria</author>
+		</item>
+		<item>
+			<title>HELLO KITTY</title>
+		    <link>https://patronamigurumi.top/hello-kitty-amigurumi-paso-a-paso-gratis/</link>
+		    <descripcion>PATRON DE GATO BALNCO</descripcion>
+			<author>Maria</author>
+		</item>
+		<item>
+			<title>Mariposa patrón amigurumi paso a paso</title>
+			<link>https://patronamigurumi.top/mariposa/</link>
+			<descripcion>PATRON DE mariposa</descripcion>
+			<author>Maria</author>
+		</item>
+	</channel>
+</rss>
+		
