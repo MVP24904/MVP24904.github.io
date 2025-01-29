@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xlmns="http://www.w3.org/2005/Atom">
+
+		<title> Animales.</title>
+		<link> https://www.pelistibu.it/</link>
+        <updated>29/01/2025</updated>
+        <author>
+            <name>Maria</name>
+        </author>
+        <id>https://www.pelistibu.it/feed/</id>
+		
+		<entry>
+			<title> Pollos</title>
+			<link>https://www.worldanimalprotection.es/noticias-y-blogs/blogs/11-datos-sobre-los-pollos-que-te-sorprenderan/</link>
+			<id>https://www.pelistibu.it/feed/p1.html</id>
+			<author>Maria</author>
+            <updated>3 de septiembre de 2022</updated>
+            <summary>cosas que no sabiamos de los pollos</summary>
+		</entry>
+		<entry>
+			<title>gatos</title>
+			<link>https://www.elperiodico.com/es/vida-y-estilo/20250111/gato-quiere-decir-significado-poses-felinas-comunes-dv-107668878</link>
+			<id>https://www.pelistibu.it/feed/p2.html</id>
+			<author>Maria</author>
+            <updated>4 de septiembre de 2022</updated>
+            <summary>¿Qué significan las poses de gatos más comunes?</summary>
+		</entry>
+        <entry>
+			<title>perros</title>
+			<link>https://www.srperro.com/blog_perro/perros-al-agua-por-una-buena-causa-chapuzones-solidarios-en-rivas-merida-daganzo/</link>
+			<id>https://www.pelistibu.it/feed/p2.html</id>
+			<author>Maria</author>
+            <updated>4 de septiembre de 2022</updated>
+            <summary>Perros al agua por una buena causa: chapuzones solidarios en Rivas, Mérida, Parla, Daganzo...</summary>
+		</entry>
+</feed>
