@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Conducta Animal</title>
+    <link href="https://www.20minutos.es/minuteca/animales/1/"/>
+    <updated>2024/02/03</updated>
+    <author> 
+        <name>Maria Vázquez</name>
+    </author>
+    <id>https://www.20minutos.es/minuteca/animales/1/feed/</id>
+ 
+    <entry>
+        <title>El conmovedor reencuentro entre un hombre y su perro tras cuatro meses separados: "¡Qué felicidad tan grande!"</title>
+        <link href="https://www.20minutos.es/gonzoo/noticia/5679085/0/bonito-reencuentro-entre-hombre-su-perro-tras-cuatro-meses-separados-hice-un-desastre-pero-no-importa/"/>
+        <id>https://www.20minutos.es/minuteca/animales/1/feed/p1.html</id>
+        <updated>2024/02/05</updated>
+        <sumary> Las mascotas son un miembro más de la familia, por ello despedirse de ellas no es sencillo. De la misma manera que las personas, los animales también echan de menos a sus dueños. Prueba de ello ha sido el vídeo que ha compartido el dueño de Marcelo, 
+            un pastor ovejero inglés, a través de su cuenta de TikTok. 
+        </sumary>
+    </entry>  
+    <entry>
+        <title>Proponen incluir la protección animal en el temario de las oposiciones de Policía Nacional y Guardia Civil</title>
+        <link href="https://www.20minutos.es/noticia/5678148/0/proteccion-animal-como-parte-temario-las-oposiciones-policia-nacional-guardia-civil/"/>
+        <id>https://www.20minutos.es/minuteca/animales/1/feed/p2.html</id>
+        <updated>2024/02/08</updated>
+        <sumary> La Asociación de Policías por la Defensa de los Animales (APDA) se reunió el pasado 29 de enero con el Gabinete del
+         Ministro del Interior para exponer las dificultades y necesidades que enfrentan las Fuerzas y Cuerpos de Seguridad del Estado 
+         (FFCCSE) en su trabajo diario relacionado con los animales.En el encuentro, al que asistieron los vocales asesores del Gabinete del Ministro 
+         del Interior, María Dolores Gimeno Durán, Teniente Coronel de la Guardia Civil, y José Antonio Puebla, Comisario de Policía Nacional, la APDA propuso, entre 
+         otras acciones, la incorporación de los delitos contra los animales y la Ley marco estatal sobre bienestar y tenencia responsable en el temario de oposiciones
+          al Cuerpo Nacional de Policía y a la Guardia Civil. 
+        </sumary>
+    </entry>  
+    <entry>
+        <title>Investigadas dos tiendas de animales de Girona por la venta ilegal de especies protegidas</title>
+        <link href="https://www.20minutos.es/noticia/5678820/0/investigadas-dos-tiendas-de-animales-de-girona-por-la-venta-ilegal-de-especies-protegidas/"/>
+        <id>https://www.20minutos.es/minuteca/animales/1/feed/p3.html</id>
+        <updated>2024/02/10</updated>
+        <sumary> La Guardia Civil de Girona está investigando a dos tiendas de animales por un posible delito contra la flora y la fauna por la presunta tenencia y venta de especies protegidas sin documentación preceptiva.
+            En un comunicado este lunes, han explicado que en 2024 iniciaron la investigación al localizar en dos tiendas de animales de Platja d'Aro y Salt (Girona) varias especies protegidas que carecían de la
+            documentación necesaria para su tenencia y comercio.
+        </sumary>
+    </entry>  
+    <entry>
+        <title>Las historias de nueve galgos que encontraron un hogar tras el abandono</title>
+        <link href="https://www.20minutos.es/imagenes/animaleros/perros/5678128-las-historias-nueve-galgos-que-encontraron-un-hogar-tras-abandono/"/>
+        <id>https://www.20minutos.es/minuteca/animales/1/feed/p4.html</id>
+        <updated>2024/02/01</updated>
+        <sumary> Por el Día del galgo, que se celebra cada 2 de febrero con el objetivo de
+            proteger esta raza canina, el fotógrafo Andrés López comparte nueve de sus retratos de galgos que 
+            sufrieron el abandono y ahora tienen un hogar. "Todos, retratados en estos últimos diez años en diferentes 
+            asociaciones y refugios, coinciden en lo mismo: fueron descartados por el mundo de la caza", explica el autor. 
+            "Es terrible tener delante de la cámara un animal que está temblando simplemente porque tú estás cerca de él".
+        </sumary>
+    </entry>   
+</feed>
